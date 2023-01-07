@@ -1,1 +1,0 @@
-# Mongo, Express, React/Redux and Node Template
